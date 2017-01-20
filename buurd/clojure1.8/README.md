@@ -4,3 +4,4 @@ Trying to remember clojure...
 50 = 7
 1000 = 9
 
+

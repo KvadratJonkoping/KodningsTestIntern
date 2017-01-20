@@ -22,6 +22,7 @@
 ;; summera listan och ta ut modulus.
 (mod (reduce + (map to-mod10 (take 10 (drop 3 strings)))) 10)
 
+
 ;; hämta ut 50 bokstavslistor från 2 och uppåt genom att droppa de tre första
 ;; summera "bokstäverna" och ta ut modulus per lista
 ;; summera listan och ta ut modulus.
