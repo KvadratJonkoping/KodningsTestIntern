@@ -1,6 +1,6 @@
 Trying to remember clojure...
 
-10 = 4
-50 = 6
-1000 = 0
+10 = 8
+50 = 7
+1000 = 9
 
