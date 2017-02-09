@@ -1,0 +1,15 @@
+{
+  "name": "kodnot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nekman",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "1.6.17"
+  }
+}
