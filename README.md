@@ -13,6 +13,7 @@ Så, en tävling där enbart äran är priset :-)
 När du har ett resultat, skapa en pull-request till detta repository innehållandes en mapp som motsvarar ditt användarnamn här på github. I denna mapp skapa en mapp med namnet på det programmeringsspråk du använt. I denna mappa ska din källkod finnas och en README.md finnas som innehåller resultat från de 10, 50 och 1000 första fibonaccital, där fibonaccital större än 1 ingår i serien.
 
     .
+
     ├── användarnamn                # ditt github username
     │   ├── programmeringsspråk
     │      ├── källkod              # import com.apache...
